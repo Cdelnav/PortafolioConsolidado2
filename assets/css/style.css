@@ -1,0 +1,179 @@
+* {
+    background-color:whitesmoke;
+}
+
+.navbar {
+    background-color:black;
+}
+
+.navbar-brand {
+    background-color:black;
+}
+
+#barra_nav{
+    background-color: black;
+}
+#hambIcono{
+    background-color: black;
+}
+
+#quienSoy{
+    color: black;
+    font-family:"Poppins";
+    font-weight: 500;
+    font-size:x-large;
+    /*margin-bottom: 40px;*/
+}
+
+#habilidades{    
+    color:white;
+    background-color:black;  
+}
+#dflex-habilidades{
+    background-color:black;
+}
+
+#dflex-footer{
+    background-color:white;
+}
+
+.d-flex{
+    background-color:black;  
+}
+
+
+#containerHabilidad{
+    background-color:black;  
+}
+
+#h1_habilidades,
+#h1_contacto {
+    color: white;
+    background-color:black;
+    text-align: center;
+    text-decoration: underline white;
+}
+
+#contacto{
+    color: black;
+    font-family:"Poppins";
+    font-weight: 500;
+    font-size:medium;
+    
+}
+
+.form-group{
+    background-color:black;
+}
+
+#formLabel{
+    color: white;
+    background-color:black;
+}
+/*  */
+
+#id_col{
+    background-color:black;
+}
+
+
+
+#h1_quienSoy,
+#h1_proyectos {
+    padding-top: 40px;
+    text-align: center;
+    text-decoration: underline black;
+}
+
+#h1_proyectos {
+   background-color: white;
+}
+
+
+
+#contacto,
+#boton{
+    background-color: black;
+    padding-bottom: 1px;
+}
+
+#boton_card{
+    background-color: whitesmoke;
+}
+
+#h5_card,
+#p_card{
+    color: black;
+    font-family:"Poppins";
+    font-weight: 500;
+    font-size:x-large;
+
+}
+
+.card-title{
+    color: white;
+    font-family:"Poppins";
+    font-weight: 700;
+    font-size:x-large;
+    text-align: center;
+}
+
+.nav-link {
+    color: white;
+    font-family:"Poppins";
+    font-weight: 100;
+    background-color: black;
+    font-size: larger;
+   
+}
+
+section#quienSoy,
+section#habilidades,
+section#proyectos,
+section#contacto {
+    min-height: 90vh;
+}
+
+
+.btn{
+    background-color:grey;
+    margin-top: 0px;
+    border:0px;
+}
+
+/* footer*/
+
+#section_footer, 
+#row_footer,
+#id_figure,
+#sobre_mi,
+#h2_footer,
+#p_footer,
+#id_sigueme,
+#id_row,
+#container-footer,
+#proyectos{
+    background-color: white;
+}
+
+.red-social{
+    background-color: white;
+}
+
+.grupo-2{
+    background-color: white;
+
+}
+
+figure img {
+    width: 150px;
+    margin-left: 0px;
+    
+}
+
+#section_footer, #id_grupo-2{
+    background-color: white;
+    padding: 5px 10px;
+    text-align: center;
+    color: black;
+}
